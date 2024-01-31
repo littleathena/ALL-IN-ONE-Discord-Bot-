@@ -324,4 +324,4 @@ module.exports = async (client, interaction, args) => {
             client.errNormal({ error: `You don't have any ${client.emotes.economy.coins}!`, type: 'editreply' }, interaction);
         }
     })
-}
+}//
